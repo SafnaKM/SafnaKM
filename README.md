@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SafnaKM
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently self-taught developer who is looking forward to
+explore new technologies and curious to learn more about developing web applications, and cares about writing readable as well as maintainable code.
 - 📫  reach me at safnamoidu916@gmail.com
 
-<!---
-SafnaKM/SafnaKM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
